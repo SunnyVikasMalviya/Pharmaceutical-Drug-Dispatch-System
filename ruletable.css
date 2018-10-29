@@ -1,0 +1,47 @@
+body
+{
+	margin:0px;
+	background-color:#d2f3fd;
+}
+#heading
+{
+	color:#f47c37;
+	text-align:center;
+	background-color:#37b5f4;
+	border-bottom:solid 3px #19c1f4;
+	padding:5px;
+	font-size:40px;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+#mm
+{
+	background-color:#d2f3e1;
+	border:solid 2px blue;
+	padding:50px;
+	text-align:center;
+	color:blue;
+	margin-left:130px;
+	font-size:20px;
+}
+#logout
+{
+	background-color:#37b5e4;
+	margin:0px;
+	padding:10px;
+	padding-left:1200px;
+}
+.order
+{
+	
+}
+#view_table
+{
+	border-style:solid;
+	border-color:maroon;
+	width:500px;
+}
+#view_table tr
+{ 
+  background-color:orange;
+}

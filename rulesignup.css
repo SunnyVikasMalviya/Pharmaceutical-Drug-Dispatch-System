@@ -1,0 +1,58 @@
+#box
+{
+	margin-left:570px;
+	color:white;
+	border:solid 2px #19c1f4;
+	width:200px;
+	background-color:#199cf4;
+	padding:20px;
+}
+body
+{
+	margin:0px;
+	background-color:#d2f3fd;
+}
+a
+{
+  color:black;
+  text-decoration:none;
+}
+form
+{
+	margin-left:20px;
+	margin-top:20px;
+	text-align:left;
+}
+#signup
+{
+	text-align:center;
+	color:#b4f908;
+}
+#heading
+{
+	color:#f47c37;
+	text-align:center;
+	background-color:#37b5f4;
+	border-bottom:solid 3px #19c1f4;
+	padding:5px;
+	font-size:40px;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+#mm
+{
+	background-color:#d2f3e1;
+	border:solid 2px blue;
+	padding:50px;
+	text-align:center;
+	color:blue;
+	margin-left:130px;
+	font-size:20px;
+}
+#logout
+{
+	background-color:#37b5e4;
+	margin:0px;
+	padding:10px;
+	padding-left:1200px;
+}
